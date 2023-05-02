@@ -32,41 +32,39 @@ A pair of glasses that can connect with the phone of the client via WiFi or Blue
 
 Below you can find a list of possible models that are pricier, but do come with interesting features.
 
-|                 | Iristick H1                             | Iristick G2 (Pro)                    | RayBan Stories                                   |
-| --------------- | --------------------------------------- | ------------------------------------ | ------------------------------------------------ |
-| Camera          | X  (D117° 1080p 30FPS)                  | X  (V115°/H77° 1080p 30FPS)          | X  (Dual 5MP camera)                             |
-| Optical Zoom    | X (6x)                                  | X   (6x)                             |                                                  |
-| Microphone      | X                                       | X                                    | X (3 built-in)                                   |
-| Sound / Speaker | X                                       | X                                    | X                                                |
-| Voice Commands  | X                                       | X  (only in Pro)                     | X (Via Facebook)                                 |
-| Battery         | 5hr+ (full performance)                 | 5hr+ (full performance)              | 6hr (case for 3 recharges)                       |
-| Bluetooth       |                                         |                                      | Bluetooth 5.0                                    |
-| WiFi            |                                         |                                      | Wifi 802.11ac                                    |
-| Touch(pad)      | X                                       | X                                    | X                                                |
-| Pro's           | SDK/API available                       | SDK/API available, non-intrusive     | Sleek design, good price                         |
-| Con's           | Not non-intrusive, pricy, COAX to phone | Pricy, COAX to phone unit            | Facebook account needed, needs Facebook View app |
-| Price range     | € 2275  (excl. shipping)                | € 1850 / Pro: 2275  (excl. shipping) | € 330  (excl. shipping)                          |
-| Preview         |![Iristick H1 preview](./img/2023-05-02-15-56-41.png) | ![Iristick G2](./img/2023-05-02-15-57-49.png) | ![RayBan Stories Preview](./img/2023-05-02-15-59-14.png) |
+|                 | Iristick H1                                           | Iristick G2 (Pro)                             | RayBan Stories                                           |
+| --------------- | ----------------------------------------------------- | --------------------------------------------- | -------------------------------------------------------- |
+| Camera          | X  (D117° 1080p 30FPS)                                | X  (V115°/H77° 1080p 30FPS)                   | X  (Dual 5MP camera)                                     |
+| Optical Zoom    | X (6x)                                                | X   (6x)                                      |                                                          |
+| Microphone      | X                                                     | X                                             | X (3 built-in)                                           |
+| Sound / Speaker | X                                                     | X                                             | X                                                        |
+| Voice Commands  | X                                                     | X  (only in Pro)                              | X (Via Facebook)                                         |
+| Battery         | 5hr+ (full performance)                               | 5hr+ (full performance)                       | 6hr (case for 3 recharges)                               |
+| Bluetooth       |                                                       |                                               | Bluetooth 5.0                                            |
+| WiFi            |                                                       |                                               | Wifi 802.11ac                                            |
+| Touch(pad)      | X                                                     | X                                             | X                                                        |
+| Pro's           | SDK/API available                                     | SDK/API available, non-intrusive              | Sleek design, good price                                 |
+| Con's           | Not non-intrusive, pricy, COAX to phone               | Pricy, COAX to phone unit                     | Facebook account needed, needs Facebook View app         |
+| Price range     | € 2275  (excl. shipping)                              | € 1850 / Pro: 2275  (excl. shipping)          | € 330  (excl. shipping)                                  |
+| Preview         | ![Iristick H1 preview](./img/2023-05-02-15-56-41.png) | ![Iristick G2](./img/2023-05-02-15-57-49.png) | ![RayBan Stories Preview](./img/2023-05-02-15-59-14.png) |
 
 Below you can find a list of possible plan-b models that offer less features for a cheaper model.
 
-|                 | OhO sunshine Video Glasses        | Snap Spectacles 3                             |
-| --------------- | --------------------------------- | --------------------------------------------- |
-| Camera          | X (1080p 30FPS)                   | 2 x HD camera (60FPS)                         |
-| Optical Zoom    |                                   |                                               |
-| Microphone      | X                                 | 4 built-in microphones                        |
-| Sound / Speaker | Not specified                     |                                               |
-| Voice Commands  |                                   |                                               |
-| Battery         | 90min (recharge while recording)  | 60min (4 recharges)                           |
-| Bluetooth       |                                   | Bluetooth 5.0                                 |
-| WiFi            | X                                 | 802.11 ac wifi, 2,45/5 GHz                    |
-| Touch(pad)      | One button to start recording     |                                               |
-| Pro's           | Water-resistant                   | Built-in GPS, 3D and AR                       |
-| Con's           | Streaming happens via application | Used with Lens app, battery, bad user reviews |
-| Price range     | $ 150 (excl. shipping)            | € 370  (excl. shipping)                       |
+|                 | OhO sunshine Video Glasses                    | Snap Spectacles 3                                      |
+| --------------- | --------------------------------------------- | ------------------------------------------------------ |
+| Camera          | X (1080p 30FPS)                               | 2 x HD camera (60FPS)                                  |
+| Optical Zoom    |                                               |                                                        |
+| Microphone      | X                                             | 4 built-in microphones                                 |
+| Sound / Speaker | Not specified                                 |                                                        |
+| Voice Commands  |                                               |                                                        |
+| Battery         | 90min (recharge while recording)              | 60min (4 recharges)                                    |
+| Bluetooth       |                                               | Bluetooth 5.0                                          |
+| WiFi            | X                                             | 802.11 ac wifi, 2,45/5 GHz                             |
+| Touch(pad)      | One button to start recording                 |                                                        |
+| Pro's           | Water-resistant                               | Built-in GPS, 3D and AR                                |
+| Con's           | Streaming happens via application             | Used with Lens app, battery, bad user reviews          |
+| Price range     | $ 150 (excl. shipping)                        | € 370  (excl. shipping)                                |
 | Preview         | ![OhO preview](./img/2023-05-02-16-06-24.png) | ![Spectacles 3 preview](./img/2023-05-02-16-07-09.png) |
-
-### Conclusion
 
 When looking at the listing above, it is clear that no pair of glasses fits all of the basic requirements. When they do come close, the possibilities to configure or program to your own needs are slim. They either make use of a custom build application or software without giving access to the user to do something in addition.
 
@@ -75,3 +73,23 @@ When looking at the listing above, it is clear that no pair of glasses fits all 
 It may be necessary to look at alternative open-source DIY smart glasses. An example of such a project can be found [here](https://github.com/TeamOpenSmartGlasses/OpenSourceSmartGlasses).
 
 ## Software
+
+The application needs to be able to interact with the hardware and must be OS independent, meaning it needs to work on any device. In addition to this, the UI needs to be user friendly to make sure both volunteers and clients can use the application with ease. In case of an emergency, people need to be able to contact someone in an instant.
+
+The type of application depends on the hardware, but to be OS independent we can already check some frameworks / code bases.
+
+|              | .NET MAUI (Xamarin)    | Qt                  | Firebase                      | Apache Cordova (PhoneGAP) |
+| ------------ | ---------------------- | ------------------- | ----------------------------- | ------------------------- |
+| Language     | C#     and .NET        | C++                 | /                             | HTML, CSS and JS          |
+| Integrations | APIs (Touch ID, ARKit) | API / Bluetooth ... | Create your app, run it on FB | runs on NodeJS (npm)      |
+| VSCode       | X                      |                     | X                             | X                         |
+| Free         | X                      | Paid plan           | Paid plan                     | X                         |
+
+When deciding which platform / framework / code base to use for this project, it would make more sense to choose one that is free/open source. The .NET and Cordova solutions seem interesting because they fall in the field of expertise of the researchers.
+
+### Inspiration
+
+Inspiration for building the application can be found here:
+
+* [The Aira App](https://aira.io/)
+* [Be My Eyes](https://www.bemyeyes.com/language/dutch)
