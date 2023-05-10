@@ -68,6 +68,8 @@ Below you can find a list of possible plan-b models that offer less features for
 
 When looking at the listing above, it is clear that no pair of glasses fits all of the basic requirements. When they do come close, the possibilities to configure or program to your own needs are slim. They either make use of a custom build application or software without giving access to the user to do something in addition.
 
+Others have tried and failed, think of the Google Glass Enterprise that discontinued and the Microsoft HoloLens with a minimum price of 3600 euro.
+
 ### Alternatives
 
 It may be necessary to look at alternative open-source DIY smart glasses. An example of such a project can be found [here](https://github.com/TeamOpenSmartGlasses/OpenSourceSmartGlasses).
